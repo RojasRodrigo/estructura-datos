@@ -18,4 +18,4 @@ for venta in ventas_lista:
     print("Cantidad:", cantidad)
     print("Precio:", precio)
     print("Total:", total)
-    print("-------------------")
+    print("------------------")
