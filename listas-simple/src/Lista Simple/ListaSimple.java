@@ -1,4 +1,3 @@
-
 class ListaSimple {
     Nodo cabeza; // El inicio de la lista
 
